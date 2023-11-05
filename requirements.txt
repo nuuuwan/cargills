@@ -1,0 +1,2 @@
+# Autogenerate by build_requirements
+openpyxl
